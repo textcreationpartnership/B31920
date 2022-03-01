@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. William R. Whereas by an Act made this present session of Parliament, intituled, An Act for granting an aid to His Majesty, for disbanding the Army, and other necessary occesions, it is amongst other things enacted, that the army, and all the respective regiments, ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31920</idno>
+            <idno type="STC">Wing W2444</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[125]</idno>
+            <idno type="STC">ESTC R225373</idno>
+            <idno type="EEBO-CITATION">99886083</idno>
+            <idno type="PROQUEST">ocm99886083</idno>
+            <idno type="VID">188746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188746)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[126])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. William R. Whereas by an Act made this present session of Parliament, intituled, An Act for granting an aid to His Majesty, for disbanding the Army, and other necessary occesions, it is amongst other things enacted, that the army, and all the respective regiments, ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698 [i.e. 1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and first lines of text.</note>
+                  <note>Dating is given according to Lady Day dating.</note>
+                  <note>Arms 128; Steele notation: the Right pursuance.</note>
+                  <note>At end of text: "Given at Our court at Kensington, the twenty third day of February, 1698. In the eleventh year of Our reign.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188746:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MONDROIT</q>
+               </figure>By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act made this preſent Seſſion of Parliament, Intituled, <hi>An Act for Granting an Aid to His Majeſty, for Disbanding the Army, and other neceſſary Occaſions.</hi> It is amongſt other things Enacted, That the Army, and all the reſpective Regiments, Troops, Companies, Officers and Soldiers of the ſaid Army, within the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> ſhall, on or before the Six and Twentieth Day of <hi>March,</hi> in the Year of our Lord, One thouſand ſix hundred ninety nine, be Disbanded, Except ſuch Regiments, Troops and Companies, conſiſting only of Our Natural Born Subjects, not exceeding Seven thouſand Perſons, Commiſſion and Non-commiſſion Officers included, as before the Firſt Day of <hi>March,</hi> One thouſand ſix hundred ninety eight, ſhall be particularly Expreſſed in and by Our Royal Proclamati<g ref="char:EOLhyphen"/>on under the Great Seal of <hi>England:</hi> In which Proclamation the Particular Number only of each Regiment, Troop, and Company ſhall be Expreſſed. We have therefore thought fit (In purſuance of the ſaid Act of Parliament, and by the Advice of Our Privy Council) to Iſſue this Our Royal Proclamation; And We do hereby Declare Our Will and Pleaſure to be, That the ſeveral and reſpective Regiments, Troops and Companies herein after mentioned, conſiſting of Our Natural Born Sub<g ref="char:EOLhyphen"/>jects, and not exceeding in the whole Seven thouſand Perſons, Commiſſion and Non-commiſſion Officers included, ſhall, and are hereby Declared and Expreſſed to be the Regiments, Troops and Companies intended by Vs to be kept up and not Disbanded; Our Firſt Troop of Horſe Guards, conſiſting of a Captain, <hi>viz.</hi> Our Right Truſty and Right Welbeloved Couſin and Councellor, <hi>Richard</hi> Earl of <hi>Scarborough,</hi> Two Lieutenants, a Cornet, a Guidon, Four Exempts, Four Brigadiers, a Chap<g ref="char:EOLhyphen"/>lain, an Adjutant, a Chirurgeon, Four Trumpets, a Kettle Drum, and One hundred and ſixty Private Gentlemen; making in all One hundred eighty one Perſons. Our Second Troop of Horſe Guards, conſiſting of a Captain, <hi>viz.</hi> Our Right Truſty and Right Intirely Beloved Couſin and Councellor, <hi>James</hi> Duke of <hi>Ormond,</hi> Two Lieutenants, a Cornet, a Guidon, Four Ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, Four Brigadiers, a Chaplain, an Adjutant, a Chirurgeon, Four Trumpets, a Kettle Drum, and One hundred and ſixty Private Gentlemen; making in all <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hundred eighty one Perſons. Our Third Troop of Horſe Guards, conſiſting of a Captain, <hi>viz.</hi> Our Right Truſty and Right Welbeloved Couſin, <hi>Richard <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rivers,</hi> Two Lieutenants, a Cornet, a Guidon, Four Exempts, Four Brigadiers, a Chaplain, an Adjutant, a Chirurgeon, Four Trumpets, a Kettle Drum, One hundred and ſixty Private Gentlemen; making in all One hundred eighty one Perſons. Our Troop of Granadier Guards, conſiſting of a Captain, <hi>viz.</hi> Our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſty and Welbeloved <hi>George Cholmondley</hi> Eſquire, a Lieutenant Colonel, a Major, Two Lieutenants, a Guidon, Two Sub-Lieutenants, a Chaptain, a Chirur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, an Adjutant, Six Serjeants, Six Corporals, Four Drummers, Four Hautboys, and One hundred and fourty five Private Men; making in all One hundred <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nty ſix Perſons. Our Royal Regiment of Horſe, conſiſting of a Colonel, <hi>viz.</hi> Our Right Truſty and Right Welbeloved, Couſin and Councellor, <hi>Aubery</hi> Earl <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Oxford,</hi> a Lieutenant Colonel, a Major, a Chaplain, Nine Captains, whereof the ſaid Colonel, Lieutenant Colonel, and Major are Three, Nine Lieutenants, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e Cornets, Nine Quarter-maſters, Nine Trumpets, Eighteen Corporals, an Adjutant, a Kettle Drum, and Three hundred and twenty four Private Men, in Nine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roops of Thirty ſix Private Men in each Troop; making in all Three hundred and ninety Perſons. Our Regiment of Horſe under the Command of Our Truſty and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>elbeloved <hi>Henry Lumley</hi> Eſquire, conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Nine Captains, whereof the ſaid Colonel, Lieutenant <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lonel, and Major are Three, Nine Lieutenants, Nine Cornets, Nine Quarter-maſters, Nine Trumpets, Eighteen Corporals, an Adjutant, a Kettle Drum, and Three <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dred and twenty four Private Men, in Nine Troops of Thirty ſix Private Men in each Troop; making in all Three hundred and ninety Perſons. Our Regiment of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe, under the Command of Our Truſty and Welbeloved <hi>Cornelius Wood</hi> Eſquire, conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Captains, whereof the ſaid Colonel, Lieutenant Colonel, and Major are Three, Six Lieutenants, Six Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nets, Six Quartermaſters, Twelve Corporals, Six <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rumpets, a Kettle Drum, and Two hundred and four Private Men, in Six Troops of Thirty four Private Men in each Troop; making in all Two hundred fourty eight <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſons. Our Regiment of Horſe Commanded by Our Right Truſty and Right Welbeloved Couſin <hi>Charles</hi> Earl of <hi>Arran,</hi> conſiſting of him as Colonel, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eutenant Colonel, a Major, a Chaplain, Six Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Six Lieutenants, Six Cornets, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quarter-maſters, Twelve Corporals, Six Trumpets, a Kettle Drum, and Two hundred and Four Private Men, in Six Troops of Thirty Four Private Men in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Troop; making in all Two hundred fourty eight Perſons. Our Regiment of Horſe, under the Command of Our Truſty and Welbeloved <hi>Hugh Wyndham</hi> Eſq <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Six Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lieutenants, Six Cornets, Six Quarter-maſters, Twelve Corporals, Six Trumpets, a Kettle Drum, and Two hundred and four Private Men, in Six Troops of Thirty Four Private Men in each Troop; making in all Two hundred fourty eight Perſons. Our Regiment of Horſe, under the Command of Our Right Truſty and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Intirely beloved Couſin and Councellor <hi>Maynard</hi> Duke of <hi>Scomberg</hi> and <hi>Leimſter,</hi> conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Six Lieutenants, Six Cornets, Six Quarter-maſters, Twelve Corporals, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Trumpets, a Kettle Drum, and Two hundred and four Private Men, in Six Troops of Thirty four Private Men in each Troop; making in all Two hundred o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urty eight Perſons. Our Regiment of Horſe, under the Command of Our Right Truſty and Right Welbeloved Couſin <hi>Charles</hi> Earl of <hi>Macklesfield,</hi> conſiſting <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Six Captains, Six Lieutenants, Six Cornets, Six Quarter-maſters, Twelve Corporals, Six Trumpets, a Kettle Drum, and Two hundred and four Private Men, in Six Troops of Thirty four Private Men in each Troop; making in all Two hundred fourty eight Perſons. Our Royal Regiment of Dragoons, under the Command of Our Right Truſty and Welbeloved <hi>Thomas</hi> Lord <hi>Raby,</hi> conſiſting of him as Colonel, a Lieute<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant Colonel, a Major, a Chaplain, Six Captains, whereof the ſaid Colonel, Lieutenant Colonel, and Major are Three, Six Lieutenants, Six Cornets, Six Quar<g ref="char:EOLhyphen"/>ter-maſters, Six Serjeants, Twelve Corporals, Six Drummers, Six Hautboys, and Two hundred and twenty eight Private Men, in Six Troops of Thirty eight <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rivate Men in each Troop; making in all Two hundred eighty three Perſons. Our Regiment of Dragoons, under the Command of Our Truſty and Welbeloved <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illiam Lloyd</hi> Eſquire, conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Six Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Six Lieutenants, Six Cornets, Six Quarter-maſters, Six Serjeants, Twelve Corporals, Six Drums, Six Hautboys, and Two hundred and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>enty eight Private Men, in Six Troops of Thirty eight Private Men in each Troop; making in all Two hundred eighty three Perſons. Our Regiment of Dra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oons, under the Command of Our Right Truſty and Right Welbeloved Couſin <hi>Algernoon</hi> Earl of <hi>Eſſex,</hi> conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Six Captains, whereof the ſaid Colonel, Lieutenant Colonel and Majorate Three, Six Lieutenants, Six Cornets, Six Quartermaſters, Six <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erjeants, Twelve Corporals, Six Drums, Six Hautboys, and Two hundred twenty eight Private Men, in Six Troops of Thirty eight Private Men in each Troop; making in all Two hundred eighty three Perſons. Our Firſt Regiment of Foot Guards, under the Command of Our Right Truſty and Right Welbel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved Couſin and Councellor <hi>Henry</hi> Earl of <hi>Romney,</hi> conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Twenty eight Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Thirty two Lieutenants, Twenty four Enſigns, a Chirurgeon, and Two Mates, Two Adjutants, Two Quarter-maſters, a Solicitor, a Drum Major, a Deputy Marſhal, Fifty Six Serjeants, Fifty Six Corporals, Fifty Six Drummers, and One thouſand one hun<g ref="char:EOLhyphen"/>dred and Twenty Private Men, in Twenty eight Companies of Fourty Private Men in each Company; making in all One thouſand three hundred eighty three Perſons. Our Second Regiment of Foot Guards, under the Command of Our Right Truſty and Welbeloved <hi>John</hi> Lord <hi>Cutts,</hi> conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Fourteen Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Sixteen Lieu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nants, Twelve Enſigns, a Chirurgeon and Mate, an Adjutant, a Quarter-maſter, a Solicitor, a Drum Major, a Deputy Marſhal, Twenty eight Ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eants, Twenty eight Corporals, Twenty eight Drums, and Five hundred and ſixty Private Men, in Fourteen Companies of Fourty Private Men each; making in all Six hundred ninety four Perſons. Our Regiment of Foot, under the Command of Our Truſty and Welbeloved <hi>William Selwyn</hi> Eſquire, con<g ref="char:EOLhyphen"/>ſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Ten Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Ten Lieutenants, Ten Enſigns, a Chirurgeon and one Mate, an Adjutant or Quarter-maſter, a Drum Major, Twenty Serjeants, Twenty Corporals, Ten Drums, and Three hundred and ſixty Private Men, in Ten Companies of Thirty ſix Private Men in each Company; making in all Four hundred fourty five Per<g ref="char:EOLhyphen"/>ſons. Our Regiment of Foot, under the Command of Our Truſty and Welbeloved <hi>Charles Churchill</hi> Eſquire, conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Ten Captains, whereof the ſaid Colonel, Lieutenant Colonel and Major are Three, Ten Lieutenants, Ten Enſigns, a Chirurgeon and one Mate an Adjutant, or Quarter-maſter, a Drum Major, Twenty Serjeants, Twenty Corporals, Ten Drums, and Three hundred and ſixty Private Men, in Ten Companies of Thirty ſix Private Men in each Company; making in all Four hundred fourty five Perſons. Our Regiment of Foot, under the Command of Our Truſty and Welbeloved <hi>Henry Trelawney</hi> Eſquire, conſiſting of him as Colonel, a Lieutenant Colonel, a Major, a Chaplain, Ten Captains, whereof the ſaid Colo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Lieutenant Colonel and Major are Three, Ten Lieutenants, Ten Enſigns, a Chirurgeon and one Mate, an Adjutant or Quarter-maſter, a Drum Major, Twenty Serjeants, Twenty Corporals, Ten Drums, and Three hundred and ſixty Private Men, in Ten Companies of Thirty ſix Private Men in each Company; making in all Four hundred fourty five Perſons. Which ſaid Regiments, Troops and Companies make in the whole Seven thouſand Perſons; and are, in purſuance of the ſaid Act, excepted from being Disbanded.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Kenſington,</hi> 
+                     <date>the Twenty third Day of <hi>February,</hi> 1698. In the Eleventh Year of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1698.</p>
+            <pb facs="tcp:188746:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
